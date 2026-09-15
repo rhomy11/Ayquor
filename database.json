@@ -1,0 +1,13 @@
+{
+  "branches": [
+    { "id": 1, "name": "Main Branch" }
+  ],
+  "nextBranchId": 2,
+  "receipts": [],
+  "nextReceiptId": 1,
+  "inventory": [
+    { "id": 1, "branch_id": 1, "name": "أوراق طابعة A4", "quantity": 45, "price": 6000 },
+    { "id": 2, "branch_id": 1, "name": "قلم جاف", "quantity": 100, "price": 500 }
+  ],
+  "nextInventoryId": 3
+}
